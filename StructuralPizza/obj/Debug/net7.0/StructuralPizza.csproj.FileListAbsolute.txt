@@ -1,0 +1,14 @@
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\StructuralPizza\bin\Debug\net7.0\StructuralPizza.exe
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\StructuralPizza\bin\Debug\net7.0\StructuralPizza.deps.json
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\StructuralPizza\bin\Debug\net7.0\StructuralPizza.runtimeconfig.json
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\StructuralPizza\bin\Debug\net7.0\StructuralPizza.dll
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\StructuralPizza\bin\Debug\net7.0\StructuralPizza.pdb
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\StructuralPizza\obj\Debug\net7.0\StructuralPizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\StructuralPizza\obj\Debug\net7.0\StructuralPizza.AssemblyInfoInputs.cache
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\StructuralPizza\obj\Debug\net7.0\StructuralPizza.AssemblyInfo.cs
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\StructuralPizza\obj\Debug\net7.0\StructuralPizza.csproj.CoreCompileInputs.cache
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\StructuralPizza\obj\Debug\net7.0\StructuralPizza.dll
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\StructuralPizza\obj\Debug\net7.0\refint\StructuralPizza.dll
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\StructuralPizza\obj\Debug\net7.0\StructuralPizza.pdb
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\StructuralPizza\obj\Debug\net7.0\StructuralPizza.genruntimeconfig.cache
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\StructuralPizza\obj\Debug\net7.0\ref\StructuralPizza.dll

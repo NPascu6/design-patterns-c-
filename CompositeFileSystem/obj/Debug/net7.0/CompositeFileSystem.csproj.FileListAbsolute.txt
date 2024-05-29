@@ -1,0 +1,14 @@
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\CompositeFileSystem\obj\Debug\net7.0\CompositeFileSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\CompositeFileSystem\obj\Debug\net7.0\CompositeFileSystem.AssemblyInfoInputs.cache
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\CompositeFileSystem\obj\Debug\net7.0\CompositeFileSystem.AssemblyInfo.cs
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\CompositeFileSystem\obj\Debug\net7.0\CompositeFileSystem.csproj.CoreCompileInputs.cache
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\CompositeFileSystem\bin\Debug\net7.0\CompositeFileSystem.exe
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\CompositeFileSystem\bin\Debug\net7.0\CompositeFileSystem.deps.json
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\CompositeFileSystem\bin\Debug\net7.0\CompositeFileSystem.runtimeconfig.json
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\CompositeFileSystem\bin\Debug\net7.0\CompositeFileSystem.dll
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\CompositeFileSystem\bin\Debug\net7.0\CompositeFileSystem.pdb
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\CompositeFileSystem\obj\Debug\net7.0\CompositeFileSystem.dll
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\CompositeFileSystem\obj\Debug\net7.0\refint\CompositeFileSystem.dll
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\CompositeFileSystem\obj\Debug\net7.0\CompositeFileSystem.pdb
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\CompositeFileSystem\obj\Debug\net7.0\CompositeFileSystem.genruntimeconfig.cache
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\CompositeFileSystem\obj\Debug\net7.0\ref\CompositeFileSystem.dll

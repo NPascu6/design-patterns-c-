@@ -1,0 +1,14 @@
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\StrategyPatternTaxCalculator\bin\Debug\net7.0\StrategyPatternTaxCalculator.exe
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\StrategyPatternTaxCalculator\bin\Debug\net7.0\StrategyPatternTaxCalculator.deps.json
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\StrategyPatternTaxCalculator\bin\Debug\net7.0\StrategyPatternTaxCalculator.runtimeconfig.json
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\StrategyPatternTaxCalculator\bin\Debug\net7.0\StrategyPatternTaxCalculator.dll
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\StrategyPatternTaxCalculator\bin\Debug\net7.0\StrategyPatternTaxCalculator.pdb
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\StrategyPatternTaxCalculator\obj\Debug\net7.0\StrategyPatternTaxCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\StrategyPatternTaxCalculator\obj\Debug\net7.0\StrategyPatternTaxCalculator.AssemblyInfoInputs.cache
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\StrategyPatternTaxCalculator\obj\Debug\net7.0\StrategyPatternTaxCalculator.AssemblyInfo.cs
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\StrategyPatternTaxCalculator\obj\Debug\net7.0\StrategyPatternTaxCalculator.csproj.CoreCompileInputs.cache
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\StrategyPatternTaxCalculator\obj\Debug\net7.0\StrategyPatternTaxCalculator.dll
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\StrategyPatternTaxCalculator\obj\Debug\net7.0\refint\StrategyPatternTaxCalculator.dll
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\StrategyPatternTaxCalculator\obj\Debug\net7.0\StrategyPatternTaxCalculator.pdb
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\StrategyPatternTaxCalculator\obj\Debug\net7.0\StrategyPatternTaxCalculator.genruntimeconfig.cache
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\StrategyPatternTaxCalculator\obj\Debug\net7.0\ref\StrategyPatternTaxCalculator.dll

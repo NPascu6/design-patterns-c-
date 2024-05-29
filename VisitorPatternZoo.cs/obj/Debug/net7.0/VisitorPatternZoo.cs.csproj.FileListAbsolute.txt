@@ -1,0 +1,14 @@
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\VisitorPatternZoo.cs\bin\Debug\net7.0\VisitorPatternZoo.cs.exe
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\VisitorPatternZoo.cs\bin\Debug\net7.0\VisitorPatternZoo.cs.deps.json
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\VisitorPatternZoo.cs\bin\Debug\net7.0\VisitorPatternZoo.cs.runtimeconfig.json
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\VisitorPatternZoo.cs\bin\Debug\net7.0\VisitorPatternZoo.cs.dll
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\VisitorPatternZoo.cs\bin\Debug\net7.0\VisitorPatternZoo.cs.pdb
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\VisitorPatternZoo.cs\obj\Debug\net7.0\VisitorPatternZoo.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\VisitorPatternZoo.cs\obj\Debug\net7.0\VisitorPatternZoo.cs.AssemblyInfoInputs.cache
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\VisitorPatternZoo.cs\obj\Debug\net7.0\VisitorPatternZoo.cs.AssemblyInfo.cs
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\VisitorPatternZoo.cs\obj\Debug\net7.0\VisitorPatternZoo.cs.csproj.CoreCompileInputs.cache
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\VisitorPatternZoo.cs\obj\Debug\net7.0\VisitorPatternZoo.cs.dll
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\VisitorPatternZoo.cs\obj\Debug\net7.0\refint\VisitorPatternZoo.cs.dll
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\VisitorPatternZoo.cs\obj\Debug\net7.0\VisitorPatternZoo.cs.pdb
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\VisitorPatternZoo.cs\obj\Debug\net7.0\VisitorPatternZoo.cs.genruntimeconfig.cache
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\VisitorPatternZoo.cs\obj\Debug\net7.0\ref\VisitorPatternZoo.cs.dll

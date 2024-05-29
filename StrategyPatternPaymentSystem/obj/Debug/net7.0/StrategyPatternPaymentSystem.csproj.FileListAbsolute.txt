@@ -1,0 +1,14 @@
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\StrategyPatternPaymentSystem\bin\Debug\net7.0\StrategyPatternPaymentSystem.exe
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\StrategyPatternPaymentSystem\bin\Debug\net7.0\StrategyPatternPaymentSystem.deps.json
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\StrategyPatternPaymentSystem\bin\Debug\net7.0\StrategyPatternPaymentSystem.runtimeconfig.json
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\StrategyPatternPaymentSystem\bin\Debug\net7.0\StrategyPatternPaymentSystem.dll
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\StrategyPatternPaymentSystem\bin\Debug\net7.0\StrategyPatternPaymentSystem.pdb
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\StrategyPatternPaymentSystem\obj\Debug\net7.0\StrategyPatternPaymentSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\StrategyPatternPaymentSystem\obj\Debug\net7.0\StrategyPatternPaymentSystem.AssemblyInfoInputs.cache
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\StrategyPatternPaymentSystem\obj\Debug\net7.0\StrategyPatternPaymentSystem.AssemblyInfo.cs
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\StrategyPatternPaymentSystem\obj\Debug\net7.0\StrategyPatternPaymentSystem.csproj.CoreCompileInputs.cache
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\StrategyPatternPaymentSystem\obj\Debug\net7.0\StrategyPatternPaymentSystem.dll
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\StrategyPatternPaymentSystem\obj\Debug\net7.0\refint\StrategyPatternPaymentSystem.dll
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\StrategyPatternPaymentSystem\obj\Debug\net7.0\StrategyPatternPaymentSystem.pdb
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\StrategyPatternPaymentSystem\obj\Debug\net7.0\StrategyPatternPaymentSystem.genruntimeconfig.cache
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\StrategyPatternPaymentSystem\obj\Debug\net7.0\ref\StrategyPatternPaymentSystem.dll
