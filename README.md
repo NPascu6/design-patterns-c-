@@ -11,31 +11,21 @@ The solution is organized into two main categories of design patterns: Behaviora
 1. **Command Pattern**
    - **CommandPatternKitchen**
      - **Commands**
-       - `ICommand.cs`
      - **Invoker**
      - **Receiver**
-     - `Program.cs`
-     - `CommandPatternKitchen.csproj`
    - **CommandPatternRemoteTV**
    - **ObserverPatternMonitoringSystem**
      - **Observer**
      - **ObserverInterface**
      - **Subject**
      - **SubjectInterface**
-     - `Program.cs`
-     - `ObserverPatternMonitoringSystem.csproj`
    - **ObserverPatternWeatherMonitoring**
    - **StrategyPatternPaymentSystem**
      - **Context**
      - **Strategy**
-     - `Program.cs`
-     - `StrategyPatternTaxCalculator.cs`
-     - `StrategyPatternPaymentSystem.csproj`
    - **VisitorPatternZoo**
      - **Elements**
      - **Visitor**
-     - `Program.cs`
-     - `VisitorPatternZoo.csproj`
 
 ### Structural Patterns
 
