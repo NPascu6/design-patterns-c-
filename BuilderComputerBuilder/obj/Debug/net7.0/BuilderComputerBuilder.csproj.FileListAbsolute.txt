@@ -1,0 +1,14 @@
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\BuilderComputerBuilder\bin\Debug\net7.0\BuilderComputerBuilder.exe
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\BuilderComputerBuilder\bin\Debug\net7.0\BuilderComputerBuilder.deps.json
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\BuilderComputerBuilder\bin\Debug\net7.0\BuilderComputerBuilder.runtimeconfig.json
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\BuilderComputerBuilder\bin\Debug\net7.0\BuilderComputerBuilder.dll
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\BuilderComputerBuilder\bin\Debug\net7.0\BuilderComputerBuilder.pdb
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\BuilderComputerBuilder\obj\Debug\net7.0\BuilderComputerBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\BuilderComputerBuilder\obj\Debug\net7.0\BuilderComputerBuilder.AssemblyInfoInputs.cache
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\BuilderComputerBuilder\obj\Debug\net7.0\BuilderComputerBuilder.AssemblyInfo.cs
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\BuilderComputerBuilder\obj\Debug\net7.0\BuilderComputerBuilder.csproj.CoreCompileInputs.cache
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\BuilderComputerBuilder\obj\Debug\net7.0\BuilderComputerBuilder.dll
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\BuilderComputerBuilder\obj\Debug\net7.0\refint\BuilderComputerBuilder.dll
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\BuilderComputerBuilder\obj\Debug\net7.0\BuilderComputerBuilder.pdb
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\BuilderComputerBuilder\obj\Debug\net7.0\BuilderComputerBuilder.genruntimeconfig.cache
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\BuilderComputerBuilder\obj\Debug\net7.0\ref\BuilderComputerBuilder.dll

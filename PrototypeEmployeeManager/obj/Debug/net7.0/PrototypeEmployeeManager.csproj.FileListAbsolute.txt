@@ -1,0 +1,14 @@
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\PrototypeEmployeeManager\bin\Debug\net7.0\PrototypeEmployeeManager.exe
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\PrototypeEmployeeManager\bin\Debug\net7.0\PrototypeEmployeeManager.deps.json
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\PrototypeEmployeeManager\bin\Debug\net7.0\PrototypeEmployeeManager.runtimeconfig.json
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\PrototypeEmployeeManager\bin\Debug\net7.0\PrototypeEmployeeManager.dll
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\PrototypeEmployeeManager\bin\Debug\net7.0\PrototypeEmployeeManager.pdb
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\PrototypeEmployeeManager\obj\Debug\net7.0\PrototypeEmployeeManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\PrototypeEmployeeManager\obj\Debug\net7.0\PrototypeEmployeeManager.AssemblyInfoInputs.cache
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\PrototypeEmployeeManager\obj\Debug\net7.0\PrototypeEmployeeManager.AssemblyInfo.cs
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\PrototypeEmployeeManager\obj\Debug\net7.0\PrototypeEmployeeManager.csproj.CoreCompileInputs.cache
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\PrototypeEmployeeManager\obj\Debug\net7.0\PrototypeEmployeeManager.dll
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\PrototypeEmployeeManager\obj\Debug\net7.0\refint\PrototypeEmployeeManager.dll
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\PrototypeEmployeeManager\obj\Debug\net7.0\PrototypeEmployeeManager.pdb
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\PrototypeEmployeeManager\obj\Debug\net7.0\PrototypeEmployeeManager.genruntimeconfig.cache
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\PrototypeEmployeeManager\obj\Debug\net7.0\ref\PrototypeEmployeeManager.dll

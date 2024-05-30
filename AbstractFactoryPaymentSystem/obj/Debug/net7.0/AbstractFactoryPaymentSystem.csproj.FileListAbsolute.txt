@@ -1,0 +1,14 @@
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\AbstractFactoryPaymentSystem\bin\Debug\net7.0\AbstractFactoryPaymentSystem.exe
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\AbstractFactoryPaymentSystem\bin\Debug\net7.0\AbstractFactoryPaymentSystem.deps.json
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\AbstractFactoryPaymentSystem\bin\Debug\net7.0\AbstractFactoryPaymentSystem.runtimeconfig.json
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\AbstractFactoryPaymentSystem\bin\Debug\net7.0\AbstractFactoryPaymentSystem.dll
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\AbstractFactoryPaymentSystem\bin\Debug\net7.0\AbstractFactoryPaymentSystem.pdb
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\AbstractFactoryPaymentSystem\obj\Debug\net7.0\AbstractFactoryPaymentSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\AbstractFactoryPaymentSystem\obj\Debug\net7.0\AbstractFactoryPaymentSystem.AssemblyInfoInputs.cache
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\AbstractFactoryPaymentSystem\obj\Debug\net7.0\AbstractFactoryPaymentSystem.AssemblyInfo.cs
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\AbstractFactoryPaymentSystem\obj\Debug\net7.0\AbstractFactoryPaymentSystem.csproj.CoreCompileInputs.cache
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\AbstractFactoryPaymentSystem\obj\Debug\net7.0\AbstractFactoryPaymentSystem.dll
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\AbstractFactoryPaymentSystem\obj\Debug\net7.0\refint\AbstractFactoryPaymentSystem.dll
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\AbstractFactoryPaymentSystem\obj\Debug\net7.0\AbstractFactoryPaymentSystem.pdb
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\AbstractFactoryPaymentSystem\obj\Debug\net7.0\AbstractFactoryPaymentSystem.genruntimeconfig.cache
+C:\Users\norbi\OneDrive\Desktop\.NetApps\DesignPatterns\AbstractFactoryPaymentSystem\obj\Debug\net7.0\ref\AbstractFactoryPaymentSystem.dll
