@@ -9,50 +9,50 @@ The solution is organized into two main categories of design patterns: Behaviora
 ### Behavioral Patterns
 
 1. **Command Pattern**
-   - [CommandPatternKitchen](./CommandPatternKitchen)
+   - [CommandPatternKitchen](./Behavioral/CommandPatternKitchen)
      - **Commands**
      - **Invoker**
      - **Receiver**
-   - [CommandPatternRemoteTV](./CommandPatternRemoteTV)
-   - [ObserverPatternMonitoringSystem](./ObserverPatternMonitoringSystem)
+   - [CommandPatternRemoteTV](./Behavioral/CommandPatternRemoteTV)
+   - [ObserverPatternMonitoringSystem](./Behavioral/ObserverPatternMonitoringSystem)
      - **Observer**
      - **ObserverInterface**
      - **Subject**
      - **SubjectInterface**
-   - [ObserverPatternWeatherMonitoring](./ObserverPatternWeatherMonitoring)
-   - [StrategyPatternPaymentSystem](./StrategyPatternPaymentSystem)
+   - [ObserverPatternWeatherMonitoring](./Behavioral/ObserverPatternWeatherMonitoring)
+   - [StrategyPatternPaymentSystem](./Behavioral/StrategyPatternPaymentSystem)
      - **Context**
      - **Strategy**
-   - [StrategyPatternTaxCalculator](./StrategyPatternTaxCalculator)
-   - [VisitorPatternOnlineShop](./VisitorPatternOnlineShop)
-   - [VisitorPatternZoo](./VisitorPatternZoo)
+   - [StrategyPatternTaxCalculator](./Behavioral/StrategyPatternTaxCalculator)
+   - [VisitorPatternOnlineShop](./Behavioral/VisitorPatternOnlineShop)
+   - [VisitorPatternZoo](./Behavioral/VisitorPatternZoo)
      - **Elements**
      - **Visitor**
 
 ### Creational Patterns
 
 1. **Abstract Factory Pattern**
-   - [AbstractFactoryPaymentSystem](./AbstractFactoryPaymentSystem)
+   - [AbstractFactoryPaymentSystem](./Creational/AbstractFactoryPaymentSystem)
 2. **Builder Pattern**
-   - [BuilderComputerBuilder](./BuilderComputerBuilder)
+   - [BuilderComputerBuilder](./Creational/BuilderComputerBuilder)
 3. **Factory Pattern**
-   - [FactoryPaymentGateway](./FactoryPaymentGateway)
+   - [FactoryPaymentGateway](./Creational/FactoryPaymentGateway)
 4. **Prototype Pattern**
-   - [PrototypeEmployeeManager](./PrototypeEmployeeManager)
+   - [PrototypeEmployeeManager](./Creational/PrototypeEmployeeManager)
 5. **Singleton Pattern**
-   - [Singleton](./Singleton)
+   - [Singleton](./Creational/Singleton)
 
 ### Structural Patterns
 
 1. **Composite Pattern**
-   - [CompositeFileSystem](./CompositeFileSystem)
+   - [CompositeFileSystem](./Structural/CompositeFileSystem)
      - `Directory.cs`
      - `FileItem.cs`
      - `FileSystemItem.cs`
      - `Program.cs`
      - `CompositeFileSystem.csproj`
 2. **Decorator Pattern**
-   - [DecoratorPizza](./DecoratorPizza)
+   - [DecoratorPizza](./Structural/DecoratorPizza)
      - `ChickenPizza.cs`
      - `Pizza.cs`
      - `PizzaDecorator.cs`
